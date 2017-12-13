@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/#play</loc>
+    <lastmod>2017-12-13T13:20:15-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/#</loc>
     <priority>0</priority>
   </url>
